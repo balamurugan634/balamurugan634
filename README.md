@@ -1,8 +1,4 @@
-<style>
-  *{
-    background:black;
-  }
-</style>
+
 <h2 align="left">Hi 👋! Im Bala</h2>
 
 ###
@@ -45,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/balamurugan634/balamurugan634/output/snake.svg" alt="Snake animation" />
 
 ###
