@@ -1,3 +1,8 @@
+<style>
+  *{
+    background:black;
+  }
+</style>
 <h2 align="left">Hi 👋! Im Bala</h2>
 
 ###
