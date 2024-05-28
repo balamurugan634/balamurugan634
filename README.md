@@ -12,8 +12,7 @@
 <h2 align="left">Skills</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/02f3027e63140c69098b0cef8db2be5c96fc82ce9201696c86f83919c6d47296/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67"><img height="50" width="50" src="https://camo.githubusercontent.com/02f3027e63140c69098b0cef8db2be5c96fc82ce9201696c86f83919c6d47296/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
