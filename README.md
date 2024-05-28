@@ -45,9 +45,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-<div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://camo.githubusercontent.com/3c394d1e28f3ba2e83160bd84bf9c4e77446f62d7095056cb6aac40db2f477a0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d686172656573682d722662675f636f6c6f723d30303030303026636f6c6f723d666666666666266c696e653d35316635363526706f696e743d66666666666626617265613d7472756526686964655f626f726465723d74727565" alt="Hareesh's github activity graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=balamurugan634&amp;bg_color=000000&amp;color=ffffff&amp;line=51f565&amp;point=ffffff&amp;area=true&amp;hide_border=true" style="max-width: 100%;"></a>
-</div>
+
 
 ###
 
