@@ -25,13 +25,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="php logo"  />
 
 </div>
-###
-<h2 align="left">Skills</h2>
+
+<h2 align="left">Tools used</h2>
 
 <div>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b693f93e8574e1056ec0cbeda4208bb4d0965fdfaaee4c15ba2c9dad441bb2e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"><img height="50" width="50" src="https://camo.githubusercontent.com/b693f93e8574e1056ec0cbeda4208bb4d0965fdfaaee4c15ba2c9dad441bb2e5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86782b7e0cf712b38aa8f6278175393fade1e6b396c39853c17a94d93c7f2fd8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6769742e706e67"><img height="50" width="50" src="https://camo.githubusercontent.com/86782b7e0cf712b38aa8f6278175393fade1e6b396c39853c17a94d93c7f2fd8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6769742e706e67" data-canonical-src="https://img.icons8.com/color/50/000000/git.png" style="max-width: 100%;"></a>
 </div>
-###
 
 <div align="left">
   <a href="https://www.instagram.com/___bala____634" target="_blank">
