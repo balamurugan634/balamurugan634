@@ -3,7 +3,7 @@
 
 ###
 <div>
-  <p dir="auto">Software Engineer @ Zoho Corporation
+  <p dir="auto">Student @ VVCOE
 <animated-image data-catalyst="" style="float: right; width: 370px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/915e6281309b9bc4cfbfb650f5e32593dc34d468a3a9f4a2f8874cc0b1535418/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" data-target="animated-image.originalLink"><img align="right" height="290" src="https://camo.githubusercontent.com/915e6281309b9bc4cfbfb650f5e32593dc34d468a3a9f4a2f8874cc0b1535418/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" data-canonical-src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/915e6281309b9bc4cfbfb650f5e32593dc34d468a3a9f4a2f8874cc0b1535418/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" target="_blank">
@@ -11,11 +11,11 @@
           <ul dir="auto">
 <!-- <li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li>
 <li>🌱 I’m currently learning Datascience</li> -->
-<!-- <li>👯 I’m looking to collaborate on ML/AI</li>
-<li>🤔 I’m looking for help with Placements in startup</li> -->
+<li>👯 I’m looking to collaborate on React/DS projects.</li>
+<li>🤔 I’m looking for help with Placements in startup</li>
 <li>💬 Ask me about Tech</li>
-<li>📫 How to reach me :
-<!-- <br> <a href="https://twitter.com/hareesh_dev" rel="nofollow"><img src="https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/hareesh-r/" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li> -->
+<!-- <li>📫 How to reach me :
+<!-- <br> <a href="https://twitter.com/hareesh_dev" rel="nofollow"><img src="https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/hareesh-r/" rel="nofollow"><img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li> --> -->
 <li>😄 Pronouns: Techie</li>
 <!-- <li>⚡ Fun fact: I know Japanese.</li>
 
