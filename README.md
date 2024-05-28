@@ -9,8 +9,8 @@
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/915e6281309b9bc4cfbfb650f5e32593dc34d468a3a9f4a2f8874cc0b1535418/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" target="_blank">
 </div>
           <ul dir="auto">
-<!-- <li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li>
-<li>🌱 I’m currently learning Datascience</li> -->
+<!-- <li>🔭 Here's my <a href="https://hareesh.web.app/" rel="nofollow">portfolio</a></li> -->
+<li>🌱 I’m currently learning Datascience</li>
 <li>👯 I’m looking to collaborate on React/DS projects.</li>
 <li>🤔 I’m looking for help with Placements in startup</li>
 <li>💬 Ask me about Tech</li>
