@@ -30,7 +30,7 @@
 ###
 <h2 align="left">Skills</h2>
 
-<div align="left">
+<div align="left" width="100">
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6acc986e35fc67011f7f64e779ca3d25ce7a6576ab52e39affcb2c1009e38150/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67"><img height="50" width="50" src="https://camo.githubusercontent.com/6acc986e35fc67011f7f64e779ca3d25ce7a6576ab52e39affcb2c1009e38150/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width: 100%;"></a>
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/>
