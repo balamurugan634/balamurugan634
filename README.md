@@ -38,6 +38,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
   <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> 
     <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+        <img height="50" width="50" src="https://img.icons8.com/color/48/000000/php.png"/> 
+
 
 
  
